@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ticoniq
 - I am a full-stack software developer
 - 
-- Love to learn new thing everyday. Love to teach coding via my youtube channel.
+- Love to learn new thing everyday.
 - 
 - 🔭 I’m currently studying software development.
 <!-- 📫 How to reach me: Email / Linkedin
