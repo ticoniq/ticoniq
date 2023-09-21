@@ -28,7 +28,7 @@ I'm a passionate Full-stack developer specializing in crafting web applications 
 ## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ticoniq&layout=compact&theme=radical) 
-![batoolfatima2135's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ticoniq&theme=tokyonight&hide_border=false)
+![ticoniq's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ticoniq&theme=tokyonight&hide_border=false)
 
 ## 📫 Connect with Me
 
