@@ -4,8 +4,8 @@ I'm a passionate Full-stack developer specializing in crafting web applications 
 
 ## 🚀 Skills
 
-- Frontend: React JS, Redux, JavaScript, HTML, CSS, Tailwind CSS
-- Backend: PHP, MySQL, PostgreSQL
+- Frontend: ReactJS, Nextjs, Redux, JavaScript, HTML, CSS, Tailwind CSS
+- Backend: PHP, MySQL, PostgreSQL, Nextjs server actions
 - Version Control: Git, GitHub
 - UI/UX: Responsive Design, User-Centered Design
 - Problem Solving: Analytical thinking, Debugging, Troubleshooting
