@@ -9,7 +9,7 @@ I'm a dedicated **Full-stack Developer** with a focus on crafting efficient, sca
 ### 🖥️ Frontend
 - **TypeScript**, **React.js**, **Next.js**
 - **Zustand**, **React Query**, **Redux Toolkit**
-- **Tailwind CSS**, **HTML5**, **CSS3**. ****
+- **Tailwind CSS**, **HTML5**, **CSS3**.
 
 ### 🗄️ Backend
 - **Laravel**, **PHP**, **MySQL**, **PostgreSQL**
